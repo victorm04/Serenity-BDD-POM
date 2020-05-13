@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Automatizacion de la herramienta trello" skipped="0" tests="1" time="59.7" timestamp="2020-05-13T17:24:24.076005700-05:00[America/Bogota]"><testcase name="Creacion de tableros"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.choucair.formacion.pageobjects.TablerosTrelloPage01.crearTablero(TablerosTrelloPage01.java:16)&#13;
+com.choucair.formacion.steps.TablerosTrelloSteps.crearTableros(TablerosTrelloSteps.java:31)&#13;
+com.choucair.formacion.definition.TablerosTrelloDefinition.creo_los_tableros_para_llevar_el_control_adecuado_de_mis_proyectos(TablerosTrelloDefinition.java:32)&#13;
+✽.When Creo los tableros para llevar el control adecuado de mis proyectos(src/test/resources/features/AutomatizacionTrello.feature:17)&#13;
+</system-err></testcase></testsuite>
