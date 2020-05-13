@@ -1,2 +1,2 @@
-# Automatizacion_reto01
-Repo para el reto tecnico 1 del curso de automatizacion
+# Retos de automatización
+Repo para los retos tecnicos del curso de automatizacion
